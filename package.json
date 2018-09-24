@@ -1,0 +1,20 @@
+{
+  "name": "punbot",
+  "version": "1.0.0",
+  "description": "pun bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puns"
+  ],
+  "author": "Nisu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonfile": "^4.0.0",
+    "request-json": "^0.6.3",
+    "snaps": "^0.1.4"
+  }
+}
